@@ -240,12 +240,12 @@ $$$$$$$  |$$ |  $$ |\$$$$$$  |$$ | \$$\ \$$$$$$  |$$ |  $$ | $$$$$$  |\$$$$$$  |
 \_______/ \__|  \__| \______/ \__|  \__| \______/ \__|  \__| \______/  \______/ \__|  \__|\_______/  \______/ 
 */
 .appMount-3lHmkl, body {
-  background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.2)) , var(--master-background) 50% 50%/cover !important;
+  background: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.1)) , var(--master-background) 50% 50%/cover !important;
   background-color: transparent !important;
   text-rendering: optimizeLegibility;
 }
 .appMount-2yBXZl, body {
-  background: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.8)) , var(--master-background) 50% 50%/cover !important;
+  background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.7)) , var(--master-background) 50% 50%/cover !important;
   background-color: transparent !important;
   text-rendering: optimizeLegibility;
 }
