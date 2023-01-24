@@ -17,12 +17,12 @@ $$ |  $$ |$$ |      $$ |  $$ |$$ |  $$ |$$ |  $$ |$$ |      $$\   $$ |
 */
 :root {
   /*Global variables that were made/edited by me*/
-  --Main-Color: rgb(78, 248, 211); /*main master color*/
-  --Secondary-Color: rgb(80, 248, 255); /*secondary color*/
-  --Third-Color: rgb(90,248,200); /*third color*/
-  --Color-4: rgb(100,235,217); /*color number 4*/
-  --Color-5: hsla(170, 40%, 40%, 0.366); /*color number 5*/
-  --Color-6: hsla(170, 50%, 50%, 0.466); /*color number 6*/
+  --Main-Color: rgb(255, 132, 0); /*main master color*/
+  --Secondary-Color: rgb(255, 102, 0); /*secondary color*/
+  --Third-Color: rgb(255,225,0); /*third color*/
+  --Color-4: rgb(255,115,0); /*color number 4*/
+  --Color-5: hsla(40, 40%, 40%, 0.366); /*color number 5*/
+  --Color-6: hsla(40, 50%, 50%, 0.466); /*color number 6*/
   --Grey-Color: rgb(31, 31, 31); /*grey color*/
   --Black: rgb(0,0,0); /*black color*/
   --White: rgb(255,255,255); /*white color*/
@@ -32,9 +32,9 @@ $$ |  $$ |$$ |      $$ |  $$ |$$ |  $$ |$$ |  $$ |$$ |      $$\   $$ |
   --Neon-Line2: 255,0,0; /*red neon line*/
   --Neon-Rgb: var(--Neon-Line); /*neon node #1*/
   --Neon-Rgb2: var(--Neon-Line2); /*red noen node #2*/
-  --Cards-Background-Color: rgb(63, 0, 64);/*darker cards color*/
+  --Cards-Background-Color: rgb(93, 63, 0);/*darker cards color*/
   /*Backgrounds*/
-  --master-background: url('https://media.discordapp.net/attachments/424211090566545408/1056085056361349160/khbg.gif'); /*master background*/
+  --master-background: url('https://cdn.discordapp.com/attachments/424211090566545408/1067376992497979442/EfEy1jjXgAEvJXG.jpg'); /*master background*/
   --background-floating: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.2)) , var(--master-background)50% 50%/cover !important; /*background used in normal discord's code*/
   /*Gifs for popouts and stuff*/
   --loop-gif: url('https://github.com/xy-nyxy/AnotherEternity/blob/main/background/loop-gif.gif?raw=true'); /*Used in files background*/
