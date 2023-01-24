@@ -24,7 +24,7 @@ $$ |  $$ |$$ |      $$ |  $$ |$$ |  $$ |$$ |  $$ |$$ |      $$\   $$ |
   --Color-5: hsla(40, 40%, 40%, 0.366); /*color number 5*/
   --Color-6: hsla(40, 50%, 50%, 0.466); /*color number 6*/
   --Grey-Color: rgb(31, 31, 31); /*grey color*/
-  --Black: rgb(0,0,0); /*black color*/
+  --Black: rgb(163,0,0); /*black color*/
   --White: rgb(255,255,255); /*white color*/
   --White-Second: rgb(175, 175, 175); /*white but gray color*/
   --Red-color: rgb(255,0,0); /*red color*/
