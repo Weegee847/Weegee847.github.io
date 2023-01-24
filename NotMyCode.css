@@ -20,7 +20,7 @@ $$ |  $$ |$$ |      $$ |  $$ |$$ |  $$ |$$ |  $$ |$$ |      $$\   $$ |
   --Main-Color: rgb(255, 132, 0); /*main master color*/
   --Secondary-Color: rgb(255, 102, 0); /*secondary color*/
   --Third-Color: rgb(255,225,0); /*third color*/
-  --Color-4: rgb(163,74,0); /*color number 4*/
+  --Color-4: rgb(0,74,0); /*color number 4*/
   --Color-5: hsla(40, 40%, 40%, 0.366); /*color number 5*/
   --Color-6: hsla(40, 50%, 50%, 0.466); /*color number 6*/
   --Grey-Color: rgb(31, 31, 31); /*grey color*/
